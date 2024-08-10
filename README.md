@@ -4,9 +4,10 @@ ConvertTool is a command-line application built with .NET and Spectre.Console th
 
 ## Features
 
-- Convert XML files to JSON format.
-- Convert CSV files to JSON format.
-- Interactive command-line interface using Spectre.Console.
+- Interactive command-line interface.
+- Convert XML files to JSON and CSV format.
+- Convert JSON files to XML and CSV format
+- Convert CSV files to JSON and XML format.
 
 ## Prerequisites
 
